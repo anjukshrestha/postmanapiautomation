@@ -1,0 +1,30 @@
+[
+    {
+        "username": "username",
+        "firstname": "john",
+        "lastname": "doe",
+        "email": "john@email.com",
+        "password": "JohnDoe123"
+    },
+    {
+        "username": "username",
+        "firstname": "bjohn",
+        "lastname": "bdoe",
+        "email": "bjohn@email.com",
+        "password": "JohnDoe123"
+    },
+    {
+        "username": "username",
+        "firstname": "cjohn",
+        "lastname": "cdoe",
+        "email": "cjohn@email.com",
+        "password": "JohnDoe123"
+    },
+    {
+        "username": "username",
+        "firstname": "djohn",
+        "lastname": "ddoe",
+        "email": "djohn@email.com",
+        "password": "JohnDoe123"
+    }
+]
